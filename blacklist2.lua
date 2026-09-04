@@ -1,6 +1,6 @@
 return {
     ["Hapy64534"] = true,
-    ["Adrian264643"] = true,
+    [""] = true,
     ["mfaith139"] = true,
     [""] = true,
 }
