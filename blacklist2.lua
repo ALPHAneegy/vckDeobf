@@ -5,4 +5,5 @@ return {
     ["Juniorpoppy12t"] = true,
     ["VeneTrumStudios"] = true,
     ["Juniorelpoppy13"] = true,
+    ["longxd654"] = true,
 }
