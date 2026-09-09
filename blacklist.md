@@ -5,4 +5,5 @@ return {
     ["VeneTrumStudios"] = true,
     ["Juniorelpoppy13"] = true,
     ["longxd654"] = true,
+    ["hzrocinha"] = true,
 }
